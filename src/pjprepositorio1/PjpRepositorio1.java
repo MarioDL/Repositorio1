@@ -18,8 +18,6 @@ public class PjpRepositorio1 {
         System.out.println("Hola mundo");
         
         System.out.println("Hola Mario");
-        
-        System.out.println("Hola Otra vez");
     }
     
 }
