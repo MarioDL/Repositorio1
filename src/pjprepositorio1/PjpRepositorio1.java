@@ -19,7 +19,7 @@ public class PjpRepositorio1 {
         
         System.out.println("Hola Mario");
         
-        System.out.println("Hola");
+        System.out.println("Hola que hace");
     }
     
 }
